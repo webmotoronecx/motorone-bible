@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+
+# Vercel project link and pulled env vars (BLOB_READ_WRITE_TOKEN, ADMIN_PASSWORD)
+.vercel/
+.env*

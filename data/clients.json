@@ -1,0 +1,914 @@
+[
+ {
+  "id": "waverley-mazda",
+  "name": "Waverley Mazda",
+  "tier": 1,
+  "brand": "Mazda",
+  "location": "Mulgrave, Victoria",
+  "address": "715 Springvale Road, Mulgrave VIC 3170",
+  "phone": "03 9071 0819",
+  "dealerNumber": "LMCT 506",
+  "website": "https://www.waverleymazda.com.au/",
+  "dealerGroup": "GWS Group (Garry & Warren Smith)",
+  "instagram": "https://www.instagram.com/waverleymazda/",
+  "facebook": "https://www.facebook.com/waverleymazda",
+  "hours": "Sales Mon–Sat 9–5, Sun 10–4",
+  "logo": {
+   "url": "assets/logo_waverley_mazda.png",
+   "name": "logo_waverley_mazda.png",
+   "type": "image/png",
+   "size": 89847
+  },
+  "photo": {
+   "url": "assets/photo_waverley_mazda.jpg",
+   "name": "photo_waverley_mazda.jpg",
+   "type": "image/jpeg",
+   "size": 154347
+  },
+  "fonts": [
+   {
+    "name": "Mazda Type",
+    "role": "Headlines & wordmark (uppercase)",
+    "note": "Proprietary — fallback Helvetica Neue / Arial. Upload the latest files here.",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Mazda Black",
+    "hex": "#000000",
+    "role": "Primary — logo & wordmark"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Primary — reverse"
+   },
+   {
+    "name": "Metallic Silver",
+    "hex": "#E5E5E6",
+    "role": "Emblem highlight"
+   },
+   {
+    "name": "Mid Grey",
+    "hex": "#808080",
+    "role": "Emblem mid-tone"
+   },
+   {
+    "name": "Shuttle Grey",
+    "hex": "#535B69",
+    "role": "Web UI grey"
+   },
+   {
+    "name": "Soul Red (accent)",
+    "hex": "#910000",
+    "role": "Marketing accent — approx."
+   }
+  ],
+  "elements": [
+   {
+    "name": "WM_brandmark_png",
+    "file": {
+     "url": "assets/logo_waverley_mazda.png",
+     "name": "logo_waverley_mazda.png",
+     "type": "image/png",
+     "size": 89847
+    }
+   },
+   {
+    "name": "Mazda_logo_svg",
+    "file": {
+     "url": "assets/brand_mazda_wordmark.svg",
+     "name": "brand_mazda_wordmark.svg",
+     "type": "image/svg+xml",
+     "size": 27396
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 1,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 506 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 9071 0819 — match it to the website before sign-off.",
+   "Address must read 715 Springvale Road, Mulgrave VIC 3170.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Group lockup: Mazda emblem above the 'I got it at GWS' badge — keep the badge proportions as supplied.",
+   "Second service centre (1020 Burwood Hwy, Ferntree Gully) is service-only — never list it as a sales location."
+  ]
+ },
+ {
+  "id": "melbourne-city-hyundai",
+  "name": "Melbourne City Hyundai",
+  "tier": 1,
+  "brand": "Hyundai",
+  "location": "South Melbourne, Victoria",
+  "address": "37-39 Brady Street, South Melbourne VIC 3205",
+  "phone": "03 9039 3133",
+  "dealerNumber": "LMCT 11157",
+  "website": "https://www.melbournecityhyundai.com.au/",
+  "dealerGroup": "Eagers Automotive",
+  "instagram": "https://www.instagram.com/melbcityhyundai/",
+  "facebook": "https://www.facebook.com/MelbourneCityHyundai",
+  "hours": "Sales Mon–Fri 8:30–5, Sat 9–5",
+  "logo": {
+   "url": "assets/logo_melbourne_city_hyundai.png",
+   "name": "logo_melbourne_city_hyundai.png",
+   "type": "image/png",
+   "size": 6325
+  },
+  "photo": {
+   "url": "assets/photo_melbourne_city_hyundai.jpg",
+   "name": "photo_melbourne_city_hyundai.jpg",
+   "type": "image/jpeg",
+   "size": 166300
+  },
+  "fonts": [
+   {
+    "name": "Hyundai Sans Head",
+    "role": "Headlines",
+    "note": "Proprietary (HVD Fonts) — fallback Arial",
+    "file": null
+   },
+   {
+    "name": "Hyundai Sans Text",
+    "role": "Body copy, small sizes",
+    "note": "Proprietary — fallback Arial",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Hyundai Blue",
+    "hex": "#002C5F",
+    "role": "Primary — PMS 654C"
+   },
+   {
+    "name": "Active Blue",
+    "hex": "#00AAD2",
+    "role": "Accent — PMS 312C"
+   },
+   {
+    "name": "Sky Blue",
+    "hex": "#AACAE6",
+    "role": "Accent — PMS 277C"
+   },
+   {
+    "name": "Hyundai Sand",
+    "hex": "#E4DCD3",
+    "role": "Neutral — Warm Gray 1C"
+   },
+   {
+    "name": "Light Sand",
+    "hex": "#F6F3F2",
+    "role": "Neutral"
+   },
+   {
+    "name": "Hyundai Gold",
+    "hex": "#A36B4F",
+    "role": "Accent — PMS 876C"
+   },
+   {
+    "name": "Active Red",
+    "hex": "#E63312",
+    "role": "Alert — PMS 2347C"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Neutral"
+   },
+   {
+    "name": "Black",
+    "hex": "#000000",
+    "role": "Neutral"
+   }
+  ],
+  "elements": [
+   {
+    "name": "MCH_brandmark_png",
+    "file": {
+     "url": "assets/logo_melbourne_city_hyundai.png",
+     "name": "logo_melbourne_city_hyundai.png",
+     "type": "image/png",
+     "size": 6325
+    }
+   },
+   {
+    "name": "Hyundai_logo_svg",
+    "file": {
+     "url": "assets/brand_hyundai_wordmark.svg",
+     "name": "brand_hyundai_wordmark.svg",
+     "type": "image/svg+xml",
+     "size": 4447
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 2,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 11157 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 9039 3133 — match it to the website before sign-off.",
+   "Address must read 37-39 Brady Street, South Melbourne VIC 3205.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Hyundai Blue #002C5F is the only approved blue for backgrounds and type.",
+   "Dealership shares the Johnson St precinct with City Mazda — never cross-brand creative or contact details."
+  ]
+ },
+ {
+  "id": "city-mazda",
+  "name": "City Mazda",
+  "tier": 1,
+  "brand": "Mazda",
+  "location": "South Melbourne, Victoria",
+  "address": "32-42 Johnson Street, South Melbourne VIC 3205",
+  "phone": "03 9329 2000",
+  "dealerNumber": "LMCT 11621",
+  "website": "https://www.citymazda.com.au/",
+  "dealerGroup": "Eagers Automotive",
+  "instagram": "https://www.instagram.com/citymazdamelb/",
+  "facebook": "https://www.facebook.com/CityMazda",
+  "hours": "Sales Mon–Fri 8:30–5:30, Sat 9–5",
+  "logo": {
+   "url": "assets/brand_mazda_wordmark.svg",
+   "name": "brand_mazda_wordmark.svg",
+   "type": "image/svg+xml",
+   "size": 27396
+  },
+  "photo": {
+   "url": "assets/photo_city_mazda.jpg",
+   "name": "photo_city_mazda.jpg",
+   "type": "image/jpeg",
+   "size": 190189
+  },
+  "fonts": [
+   {
+    "name": "Mazda Type",
+    "role": "Headlines & wordmark (uppercase)",
+    "note": "Proprietary — fallback Helvetica Neue / Arial. Upload the latest files here.",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Mazda Black",
+    "hex": "#000000",
+    "role": "Primary — logo & wordmark"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Primary — reverse"
+   },
+   {
+    "name": "Metallic Silver",
+    "hex": "#E5E5E6",
+    "role": "Emblem highlight"
+   },
+   {
+    "name": "Mid Grey",
+    "hex": "#808080",
+    "role": "Emblem mid-tone"
+   },
+   {
+    "name": "Shuttle Grey",
+    "hex": "#535B69",
+    "role": "Web UI grey"
+   },
+   {
+    "name": "Soul Red (accent)",
+    "hex": "#910000",
+    "role": "Marketing accent — approx."
+   }
+  ],
+  "elements": [
+   {
+    "name": "CM_brandmark_svg",
+    "file": {
+     "url": "assets/brand_mazda_wordmark.svg",
+     "name": "brand_mazda_wordmark.svg",
+     "type": "image/svg+xml",
+     "size": 27396
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 3,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 11621 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 9329 2000 — match it to the website before sign-off.",
+   "Address must read 32-42 Johnson Street, South Melbourne VIC 3205.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Dealership shares the Johnson St precinct with Melbourne City Hyundai — never cross-brand creative or contact details."
+  ]
+ },
+ {
+  "id": "doncaster-hyundai",
+  "name": "Doncaster Hyundai",
+  "tier": 1,
+  "brand": "Hyundai",
+  "location": "Doncaster, Victoria",
+  "address": "825 Doncaster Road, Doncaster VIC 3108",
+  "phone": "03 8848 4400",
+  "dealerNumber": "LMCT 444",
+  "website": "https://www.doncasterhyundai.com.au/",
+  "dealerGroup": "Penfold Motor Group (Peter Warren Automotive)",
+  "instagram": "https://www.instagram.com/doncaster_hyundai/",
+  "facebook": "https://www.facebook.com/doncasterhyundai/",
+  "hours": "Sales Mon–Fri 8:30–5:30, Sat 8:30–5",
+  "logo": {
+   "url": "assets/brand_hyundai_wordmark.svg",
+   "name": "brand_hyundai_wordmark.svg",
+   "type": "image/svg+xml",
+   "size": 4447
+  },
+  "photo": {
+   "url": "assets/photo_doncaster_hyundai.jpg",
+   "name": "photo_doncaster_hyundai.jpg",
+   "type": "image/jpeg",
+   "size": 117068
+  },
+  "fonts": [
+   {
+    "name": "Hyundai Sans Head",
+    "role": "Headlines",
+    "note": "Proprietary (HVD Fonts) — fallback Arial",
+    "file": null
+   },
+   {
+    "name": "Hyundai Sans Text",
+    "role": "Body copy, small sizes",
+    "note": "Proprietary — fallback Arial",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Hyundai Blue",
+    "hex": "#002C5F",
+    "role": "Primary — PMS 654C"
+   },
+   {
+    "name": "Active Blue",
+    "hex": "#00AAD2",
+    "role": "Accent — PMS 312C"
+   },
+   {
+    "name": "Sky Blue",
+    "hex": "#AACAE6",
+    "role": "Accent — PMS 277C"
+   },
+   {
+    "name": "Hyundai Sand",
+    "hex": "#E4DCD3",
+    "role": "Neutral — Warm Gray 1C"
+   },
+   {
+    "name": "Light Sand",
+    "hex": "#F6F3F2",
+    "role": "Neutral"
+   },
+   {
+    "name": "Hyundai Gold",
+    "hex": "#A36B4F",
+    "role": "Accent — PMS 876C"
+   },
+   {
+    "name": "Active Red",
+    "hex": "#E63312",
+    "role": "Alert — PMS 2347C"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Neutral"
+   },
+   {
+    "name": "Black",
+    "hex": "#000000",
+    "role": "Neutral"
+   }
+  ],
+  "elements": [
+   {
+    "name": "DH_brandmark_svg",
+    "file": {
+     "url": "assets/brand_hyundai_wordmark.svg",
+     "name": "brand_hyundai_wordmark.svg",
+     "type": "image/svg+xml",
+     "size": 4447
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 4,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 444 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 8848 4400 — match it to the website before sign-off.",
+   "Address must read 825 Doncaster Road, Doncaster VIC 3108.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Hyundai Blue #002C5F is the only approved blue for backgrounds and type.",
+   "Parts department is at Burwood (11-15 McIntyre St) — sales and service copy uses 825 Doncaster Rd only."
+  ]
+ },
+ {
+  "id": "geely-doncaster",
+  "name": "Geely Doncaster",
+  "tier": 1,
+  "brand": "Geely",
+  "location": "Doncaster, Victoria",
+  "address": "576 Doncaster Road, Doncaster VIC 3108",
+  "phone": "03 8832 7878",
+  "dealerNumber": "LMCT 444",
+  "website": "https://www.geelydoncaster.com.au/",
+  "dealerGroup": "Penfold Motor Group (Peter Warren Automotive)",
+  "instagram": "https://www.instagram.com/geely.doncaster",
+  "facebook": "https://www.facebook.com/geelydoncaster",
+  "hours": "Sales Mon–Fri 8:30–5:30, Sat 9–5",
+  "logo": {
+   "url": "assets/brand_geely.svg",
+   "name": "brand_geely.svg",
+   "type": "image/svg+xml",
+   "size": 6279
+  },
+  "photo": {
+   "url": "assets/photo_geely_doncaster.jpg",
+   "name": "photo_geely_doncaster.jpg",
+   "type": "image/jpeg",
+   "size": 217172
+  },
+  "fonts": [
+   {
+    "name": "Geely Sans",
+    "role": "Brand typeface — headlines",
+    "note": "Custom by TypeTogether (ExtraLight–Bold)",
+    "file": null
+   },
+   {
+    "name": "Inter",
+    "role": "Web body copy (300–500)",
+    "note": "Google Fonts",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Geely Blue",
+    "hex": "#084DCE",
+    "role": "Heritage accent"
+   },
+   {
+    "name": "Black",
+    "hex": "#000000",
+    "role": "Primary — 2023 emblem"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Primary — reverse"
+   },
+   {
+    "name": "Charcoal",
+    "hex": "#333333",
+    "role": "Web text"
+   },
+   {
+    "name": "Near Black",
+    "hex": "#0C1014",
+    "role": "Web ground"
+   },
+   {
+    "name": "Warm Grey",
+    "hex": "#E6E0DB",
+    "role": "Web neutral"
+   },
+   {
+    "name": "Off White",
+    "hex": "#F5F3F1",
+    "role": "Web neutral"
+   }
+  ],
+  "elements": [
+   {
+    "name": "GD_brandmark_svg",
+    "file": {
+     "url": "assets/brand_geely.svg",
+     "name": "brand_geely.svg",
+     "type": "image/svg+xml",
+     "size": 6279
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 5,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 444 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 8832 7878 — match it to the website before sign-off.",
+   "Address must read 576 Doncaster Road, Doncaster VIC 3108.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Showroom is 576 Doncaster Rd; service runs from 825 Doncaster Rd — keep the two addresses straight in copy.",
+   "Use the 2023 six-block Geely emblem; the pre-2023 shield logo is retired."
+  ]
+ },
+ {
+  "id": "gwm-doncaster",
+  "name": "GWM Doncaster",
+  "tier": 1,
+  "brand": "GWM",
+  "location": "Doncaster, Victoria",
+  "address": "825C Doncaster Road, Doncaster VIC 3108",
+  "phone": "03 9834 0999",
+  "dealerNumber": "LMCT 444",
+  "website": "https://www.doncastergwm.com.au/",
+  "dealerGroup": "Penfold Motor Group (Peter Warren Automotive)",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/doncastergwm/",
+  "hours": "Sales Mon–Fri 8:30–5:30, Sat 9–5",
+  "logo": {
+   "url": "assets/brand_gwm.svg",
+   "name": "brand_gwm.svg",
+   "type": "image/svg+xml",
+   "size": 13055
+  },
+  "photo": {
+   "url": "assets/photo_gwm_doncaster.jpg",
+   "name": "photo_gwm_doncaster.jpg",
+   "type": "image/jpeg",
+   "size": 170505
+  },
+  "fonts": [
+   {
+    "name": "Helvetica Now",
+    "role": "All copy — Text & Bold",
+    "note": "Monotype licence; as used on gwmanz.com.au",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "GWM Red",
+    "hex": "#E60000",
+    "role": "Primary — logo"
+   },
+   {
+    "name": "GWM Red (web)",
+    "hex": "#D71921",
+    "role": "Buttons & accents, gwmanz.com.au"
+   },
+   {
+    "name": "Grey",
+    "hex": "#5E5D5E",
+    "role": "Secondary"
+   },
+   {
+    "name": "Dark Grey",
+    "hex": "#444444",
+    "role": "Web neutral"
+   },
+   {
+    "name": "Light Grey",
+    "hex": "#D1D1D1",
+    "role": "Logo detail"
+   },
+   {
+    "name": "Black",
+    "hex": "#000000",
+    "role": "Neutral"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Neutral"
+   }
+  ],
+  "elements": [
+   {
+    "name": "GWMD_brandmark_svg",
+    "file": {
+     "url": "assets/brand_gwm.svg",
+     "name": "brand_gwm.svg",
+     "type": "image/svg+xml",
+     "size": 13055
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 6,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 444 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 9834 0999 — match it to the website before sign-off.",
+   "Address must read 825C Doncaster Road, Doncaster VIC 3108.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Signage and website trade as 'Doncaster GWM' — confirm which name order the brief calls for before layout.",
+   "Service is at 825B Doncaster Rd (shared with Doncaster European Service); sales is 825C."
+  ]
+ },
+ {
+  "id": "chadstone-kia",
+  "name": "Chadstone Kia",
+  "tier": 1,
+  "brand": "Kia",
+  "location": "Oakleigh, Victoria",
+  "address": "1575 Dandenong Road, Oakleigh VIC 3166",
+  "phone": "03 9071 0816",
+  "dealerNumber": "LMCT 11716",
+  "website": "https://www.chadstonekia.com.au/",
+  "dealerGroup": "GWS Group (Garry & Warren Smith)",
+  "instagram": "https://www.instagram.com/chadstonekia_/",
+  "facebook": "https://www.facebook.com/ChadstoneKia",
+  "hours": "Sales Mon–Sat 9–5",
+  "logo": {
+   "url": "assets/brand_kia_wordmark.svg",
+   "name": "brand_kia_wordmark.svg",
+   "type": "image/svg+xml",
+   "size": 1114
+  },
+  "photo": null,
+  "fonts": [
+   {
+    "name": "Kia Signature",
+    "role": "Headlines & body — Light / Regular / Bold",
+    "note": "Proprietary (2021 CI) — fallback Arial",
+    "file": null
+   },
+   {
+    "name": "Kia Signature Fix",
+    "role": "Tabular numerals — prices & tables",
+    "note": "Proprietary",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Kia Midnight Black",
+    "hex": "#05141F",
+    "role": "Primary — PMS 7547C"
+   },
+   {
+    "name": "Kia Polar White",
+    "hex": "#FFFFFF",
+    "role": "Primary"
+   },
+   {
+    "name": "Kia Live Red",
+    "hex": "#EA0029",
+    "role": "Point colour — PMS 185C"
+   },
+   {
+    "name": "Kia Afternoon Yellow",
+    "hex": "#F3C300",
+    "role": "Secondary — PMS 7406C"
+   },
+   {
+    "name": "Kia Forest Green",
+    "hex": "#5D7D2B",
+    "role": "Secondary — PMS 2279C"
+   },
+   {
+    "name": "Kia City Gray",
+    "hex": "#9EA1A2",
+    "role": "Secondary — PMS 422C"
+   },
+   {
+    "name": "Kia Dark Gray",
+    "hex": "#6D6E71",
+    "role": "Grey scale — 70% K"
+   },
+   {
+    "name": "Kia Medium Gray",
+    "hex": "#939598",
+    "role": "Grey scale — 50% K"
+   },
+   {
+    "name": "Kia Light Gray",
+    "hex": "#C7C8CA",
+    "role": "Grey scale — 25% K"
+   }
+  ],
+  "elements": [
+   {
+    "name": "CK_brandmark_svg",
+    "file": {
+     "url": "assets/brand_kia_wordmark.svg",
+     "name": "brand_kia_wordmark.svg",
+     "type": "image/svg+xml",
+     "size": 1114
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 7,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 11716 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 9071 0816 — match it to the website before sign-off.",
+   "Address must read 1575 Dandenong Road, Oakleigh VIC 3166.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Service centre is 5 Park Rd, Oakleigh and parts is 3 Park Rd — never list either as the sales address.",
+   "Use the 2021 Kia wordmark only; the oval KIA badge is retired."
+  ]
+ },
+ {
+  "id": "chadstone-mitsubishi",
+  "name": "Chadstone Mitsubishi",
+  "tier": 1,
+  "brand": "Mitsubishi",
+  "location": "Oakleigh, Victoria",
+  "address": "1575 Dandenong Road, Oakleigh VIC 3166",
+  "phone": "03 9071 0813",
+  "dealerNumber": "LMCT 11716",
+  "website": "https://www.chadstonemitsubishi.com.au/",
+  "dealerGroup": "GWS Group (Garry & Warren Smith)",
+  "instagram": "https://www.instagram.com/chadstonemitsi/",
+  "facebook": "https://www.facebook.com/ChadstoneMitsubishi",
+  "hours": "Sales Mon–Sat 9–5",
+  "logo": {
+   "url": "assets/brand_mitsubishi_wordmark.svg",
+   "name": "brand_mitsubishi_wordmark.svg",
+   "type": "image/svg+xml",
+   "size": 4147
+  },
+  "photo": null,
+  "fonts": [
+   {
+    "name": "MMC",
+    "role": "Headlines & body — Regular / Bold",
+    "note": "Bespoke by Kontrapunkt (2018). Legacy: ITC Avant Garde Gothic Condensed",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Mitsubishi Red",
+    "hex": "#E60012",
+    "role": "Primary (digital) — PMS 185C"
+   },
+   {
+    "name": "Mitsubishi Motors Red",
+    "hex": "#DA291C",
+    "role": "Primary (print) — PMS 485C"
+   },
+   {
+    "name": "Black",
+    "hex": "#000000",
+    "role": "Secondary"
+   },
+   {
+    "name": "Silver",
+    "hex": "#8A8D8F",
+    "role": "Secondary — PMS 877C"
+   },
+   {
+    "name": "Cool Gray",
+    "hex": "#B1B3B3",
+    "role": "Print fallback for silver"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Background"
+   }
+  ],
+  "elements": [
+   {
+    "name": "CMi_brandmark_svg",
+    "file": {
+     "url": "assets/brand_mitsubishi_wordmark.svg",
+     "name": "brand_mitsubishi_wordmark.svg",
+     "type": "image/svg+xml",
+     "size": 4147
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 8,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 11716 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 9071 0813 — match it to the website before sign-off.",
+   "Address must read 1575 Dandenong Road, Oakleigh VIC 3166.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Service centre is 5 Park Rd, Oakleigh and parts is 3 Park Rd — never list either as the sales address.",
+   "Three-diamond mark always in Mitsubishi Red or white — never recoloured."
+  ]
+ },
+ {
+  "id": "geely-chadstone",
+  "name": "Geely Chadstone",
+  "tier": 1,
+  "brand": "Geely",
+  "location": "Oakleigh, Victoria",
+  "address": "1611 Dandenong Road, Oakleigh VIC 3166",
+  "phone": "03 8564 0388",
+  "dealerNumber": "LMCT 11716",
+  "website": "https://www.geelychadstone.com.au/",
+  "dealerGroup": "GWS Group (Garry & Warren Smith)",
+  "instagram": "",
+  "facebook": "",
+  "hours": "Sales Mon–Sat 9–5",
+  "logo": {
+   "url": "assets/brand_geely.svg",
+   "name": "brand_geely.svg",
+   "type": "image/svg+xml",
+   "size": 6279
+  },
+  "photo": null,
+  "fonts": [
+   {
+    "name": "Geely Sans",
+    "role": "Brand typeface — headlines",
+    "note": "Custom by TypeTogether (ExtraLight–Bold)",
+    "file": null
+   },
+   {
+    "name": "Inter",
+    "role": "Web body copy (300–500)",
+    "note": "Google Fonts",
+    "file": null
+   }
+  ],
+  "colours": [
+   {
+    "name": "Geely Blue",
+    "hex": "#084DCE",
+    "role": "Heritage accent"
+   },
+   {
+    "name": "Black",
+    "hex": "#000000",
+    "role": "Primary — 2023 emblem"
+   },
+   {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "role": "Primary — reverse"
+   },
+   {
+    "name": "Charcoal",
+    "hex": "#333333",
+    "role": "Web text"
+   },
+   {
+    "name": "Near Black",
+    "hex": "#0C1014",
+    "role": "Web ground"
+   },
+   {
+    "name": "Warm Grey",
+    "hex": "#E6E0DB",
+    "role": "Web neutral"
+   },
+   {
+    "name": "Off White",
+    "hex": "#F5F3F1",
+    "role": "Web neutral"
+   }
+  ],
+  "elements": [
+   {
+    "name": "GC_brandmark_svg",
+    "file": {
+     "url": "assets/brand_geely.svg",
+     "name": "brand_geely.svg",
+     "type": "image/svg+xml",
+     "size": 6279
+    }
+   }
+  ],
+  "sharepoint": "",
+  "campaigns": [],
+  "order": 9,
+  "updatedAt": "2026-10-07T00:01:38.344673+00:00",
+  "rules": [
+   "Dealer licence LMCT 11716 must appear on every print, digital, radio and video asset.",
+   "Phone number must read 03 8564 0388 — match it to the website before sign-off.",
+   "Address must read 1611 Dandenong Road, Oakleigh VIC 3166.",
+   "Use only the hex colours listed under Brand; no off-palette tints or gradients.",
+   "Use the latest logo and brand files from this page — never a screenshot or re-traced mark.",
+   "Showroom is 1611 Dandenong Rd (two doors from the Kia/Mitsubishi site at 1575) — keep the addresses straight.",
+   "Service centre is 5 Park Rd, Oakleigh — never list it as the sales address.",
+   "Use the 2023 six-block Geely emblem; the pre-2023 shield logo is retired."
+  ]
+ }
+]
